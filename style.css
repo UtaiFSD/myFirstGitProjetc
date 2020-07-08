@@ -1,3 +1,7 @@
-strong {
+body {
+    background-color: aliceblue;
+}   
+    strong {
+    font-size: 20px;
     color: #FF0044;
 }
